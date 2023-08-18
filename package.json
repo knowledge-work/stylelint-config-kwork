@@ -30,7 +30,7 @@
     "stylelint-order": "6.0.2"
   },
   "devDependencies": {
-    "prettier": "2.8.4",
+    "prettier": "2.8.8",
     "prettier-config-kwork": "0.0.1"
   },
   "prettier": "prettier-config-kwork"
