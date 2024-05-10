@@ -575,10 +575,10 @@ postcss@^8.4.32, postcss@^8.4.38:
     picocolors "^1.0.0"
     source-map-js "^1.2.0"
 
-prettier-config-kwork@0.0.16:
-  version "0.0.16"
-  resolved "https://registry.yarnpkg.com/prettier-config-kwork/-/prettier-config-kwork-0.0.16.tgz#1b8718969aefa977ef8c2f66963f94e306fde80e"
-  integrity sha512-+2mlJJpsTfctxbyzdkQfabBqUzelRDhQ1VZts8DpykFyl9moTNTW72lwj5AshPrVRncKvv8gfuCnGNdLiSZUWg==
+prettier-config-kwork@0.0.17:
+  version "0.0.17"
+  resolved "https://registry.yarnpkg.com/prettier-config-kwork/-/prettier-config-kwork-0.0.17.tgz#48802bdc9c171a5e2e6e1160d4c37f2d15072362"
+  integrity sha512-Qda9bwA1soGKdYMiw5QRLotj6Ssab7BrhuChF7UuHWctlzLmN5k20yGafZZZkIWmb0CAGjA5QkBS4nzR6q26jQ==
 
 prettier@3.2.5:
   version "3.2.5"
