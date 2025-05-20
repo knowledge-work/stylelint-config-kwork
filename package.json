@@ -1,7 +1,7 @@
 {
   "name": "stylelint-config-kwork",
   "description": "Stylelint configs for KnowledgeWork's projects.",
-  "version": "0.0.29",
+  "version": "0.0.30",
   "repository": {
     "type": "git",
     "url": "https://github.com/knowledge-work/stylelint-config-kwork.git"
