@@ -629,10 +629,10 @@ strip-ansi@^6.0.1:
   dependencies:
     ansi-regex "^5.0.1"
 
-stylelint-config-recess-order@7.1.0:
-  version "7.1.0"
-  resolved "https://registry.yarnpkg.com/stylelint-config-recess-order/-/stylelint-config-recess-order-7.1.0.tgz#393b52b902362d924ab3bae7ab394232890f94aa"
-  integrity sha512-rFc4Z6SCGgEohr1khsmAZ83X56Tdi2dHY/GB7VT3qJkpKU1V2w+mYlK+b7Za5gpsxEng3jnb4FzWyIl/KTH0AQ==
+stylelint-config-recess-order@7.2.0:
+  version "7.2.0"
+  resolved "https://registry.yarnpkg.com/stylelint-config-recess-order/-/stylelint-config-recess-order-7.2.0.tgz#226d5acff3a6408c499645e9b4bd005e723e1cae"
+  integrity sha512-3Y97dhsWkUHFKRLGNLF6LE5JuNB2EVAZKYJ41wBRK4gplYdk7eHhSIwE24hanu0AoNmv5534Djip70pE+y5qkA==
 
 stylelint-config-recommended@^17.0.0:
   version "17.0.0"
