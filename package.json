@@ -20,8 +20,7 @@
     "check": "yarn run check:prettier",
     "check:prettier": "prettier --check .",
     "format": "prettier --write .",
-    "preversion": "echo \"Run check for version $npm_package_version\" && yarn run check",
-    "publish": "npm publish . && git push origin main && git push --tags"
+    "publish": "git push origin main && git push --tags && npm publish . --access public --registry=https://registry.npmjs.org"
   },
   "dependencies": {
     "stylelint": "16.24.0",
